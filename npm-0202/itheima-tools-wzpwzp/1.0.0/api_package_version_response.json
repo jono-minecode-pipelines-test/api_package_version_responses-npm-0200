@@ -1,0 +1,45 @@
+{
+    "name": "itheima-tools-wzpwzp",
+    "version": "1.0.0",
+    "main": "index.js",
+    "description": "\u63d0\u4f9b\u4e86\u683c\u5f0f\u5316\u7684\u65f6\u95f4,HTMLEscape\u7684\u529f\u80fd",
+    "keywords": [
+        "itheima",
+        "dateFormat",
+        "escape"
+    ],
+    "license": "ISC",
+    "_id": "itheima-tools-wzpwzp@1.0.0",
+    "_nodeVersion": "16.18.0",
+    "_npmVersion": "8.19.2",
+    "dist": {
+        "integrity": "sha512-/efJ4OKyKkxV2AAZ4yNW+9SQwjd3Vr0Qkb4VeS3Rz5lRYPXvYB/2c1P992OXOGFfEHuffw4QUYgo19aGGko5bg==",
+        "shasum": "dff08ebf35daf12742395bb092b718813ece8e91",
+        "tarball": "https://registry.npmjs.org/itheima-tools-wzpwzp/-/itheima-tools-wzpwzp-1.0.0.tgz",
+        "fileCount": 5,
+        "unpackedSize": 2410,
+        "signatures": [
+            {
+                "keyid": "SHA256:jl3bwswu80PjjokCgh0o2w5c2U4LhQAE57gj9cz1kzA",
+                "sig": "MEQCIHd9VePG9u/NHgVTsj1xNaEGjfmj4vzur6J1WRVzr6sJAiBV5ZpIB7hFbaG7ut60uxgfrkLUsw+HzEO6+w0FCy0JbQ=="
+            }
+        ],
+        "npm-signature": "-----BEGIN PGP SIGNATURE-----\r\nVersion: OpenPGP.js v4.10.10\r\nComment: https://openpgpjs.org\r\n\r\nwsFzBAEBCAAGBQJjYjDYACEJED1NWxICdlZqFiEECWMYAoorWMhJKdjhPU1b\r\nEgJ2Vmq6QQ//Sz09Z2DTbdw7FVq1QI2hFtkOCM9jnnNNmbkqhp8P1MbhWSLk\r\nEgEOylgntspSx19L8s/NKve5C6gu1h1p8pNgH75ksAN7+05AjZNGqPZRDCHd\r\nqYoshWzQOhH7OMOEi0bPdxpyD1XhFvHN+iA6/puOgClsH1sRRu0bLw1TSjPW\r\niDeSEwzgFuy6JLfgCEh/N+ti7grN+GSzDQkVnMA5TJizPA+LV6u9r5+nuXau\r\nOpzUrvnsRir5/htEbftNWVPAMBNtAF6mnmVArD4u+zuHRlDU8QP+ReqLjS9O\r\nFF8VsA1KcB36Uv5EM4G0lJgDsWv7Ce8lvh36VZ3uGMqgWwS1yyU7D62dsBU7\r\nDTjSxDzEA0VNrR96xjepwiy+NJxb7JL+TXADEFrqVpUkRof8JZOid/Pr1QkP\r\nh1YbOSaRICVIaMVJkauUs0iazHLpC9KpFrcEN00CDe2JLVPp6ZZMHh95KxvJ\r\nAB5NtT8txZP9d37GU1EmiCPw/9CQdky/TXbhhdeHIYZIvzg05ZdIE38vJ69O\r\njk6w8bsN/dD3GPKKwo0VRMXQwzaDiCEqqKgXpqne1owGEyEdoULjaPbeZXyi\r\nOnVCeQpK95fKUchGdp7J1TYKo4zqFxbPl2b3e5m9wauqDV0QsxdzRvE7Wy7v\r\nY9BXv7zZzwSy+K+dFLDqeTaqCJdOuQ+UX6w=\r\n=2yOu\r\n-----END PGP SIGNATURE-----\r\n"
+    },
+    "_npmUser": {
+        "name": "wangzhanpeng",
+        "email": "1287856938@qq.com"
+    },
+    "directories": {},
+    "maintainers": [
+        {
+            "name": "wangzhanpeng",
+            "email": "1287856938@qq.com"
+        }
+    ],
+    "_npmOperationalInternal": {
+        "host": "s3://npm-registry-packages",
+        "tmp": "tmp/itheima-tools-wzpwzp_1.0.0_1667379416713_0.7670160965899093"
+    },
+    "_hasShrinkwrap": false
+}

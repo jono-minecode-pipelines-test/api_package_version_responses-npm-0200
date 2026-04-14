@@ -1,0 +1,84 @@
+{
+    "name": "vue3-uiex-light-ts",
+    "version": "0.0.1-alpha.3",
+    "keywords": [
+        "Vue3Button",
+        "Vue3Check",
+        "Vue3Label",
+        "Vue3Quote",
+        "Vue3Radio",
+        "Vue3Input",
+        "Vue3Select",
+        "Vue3Info",
+        "Vue3Split",
+        "Vue3Table",
+        "Vue3GraphBar",
+        "Vue3Dialog",
+        "Vue3CalendarData",
+        "Vue3Calendar",
+        "vue3",
+        "Type Script"
+    ],
+    "license": "MIT",
+    "_id": "vue3-uiex-light-ts@0.0.1-alpha.3",
+    "maintainers": [
+        {
+            "name": "simcheolun",
+            "email": "admin0440@gmail.com"
+        }
+    ],
+    "homepage": "https://simcheolun.github.io/vue3-typescript/",
+    "dist": {
+        "shasum": "170a7015101b45f15212eb28d2ba2daf6317a23c",
+        "tarball": "https://registry.npmjs.org/vue3-uiex-light-ts/-/vue3-uiex-light-ts-0.0.1-alpha.3.tgz",
+        "fileCount": 28,
+        "integrity": "sha512-w/9Eatad3hZ/DHqeUp1fpN8A8/yE/rFAKk+Y0rch85Rj53sEALj8qinKaP53dvSYqYg8l9pZKk3OALu0T9YoaQ==",
+        "signatures": [
+            {
+                "sig": "MEUCIGtLrHYDd6eutLiWuVUW05lkIfCDM8+XRei0P+V1jqWRAiEAvToAmAs4+Pus+QDeLhOe84zuRdFCVxbMfTB8qCPSvsQ=",
+                "keyid": "SHA256:DhQ8wR5APBvFHLF/+Tc+AYvPOdTpcIDqOhxsBHRwC7U"
+            }
+        ],
+        "unpackedSize": 207385
+    },
+    "main": "./dist/vue3-uiex-lib.umd.js",
+    "module": "./dist/vue3-uiex-lib.es.js",
+    "exports": {
+        ".": {
+            "import": "./dist/vue3-uiex-lib.es.js",
+            "default": "./dist/vue3-uiex-lib.umd.js",
+            "require": "./dist/vue3-uiex-lib.umd.js"
+        },
+        "./dist/style.css": "./dist/style.css"
+    },
+    "gitHead": "e3fd9d9f363a8a5db624a4d157821f7918555282",
+    "scripts": {
+        "dev": "vite",
+        "build": "vite build && vue-tsc --declaration --emitDeclarationOnly --outDir dist && copy README.md dist\\"
+    },
+    "_npmUser": {
+        "name": "simcheolun",
+        "email": "admin0440@gmail.com"
+    },
+    "_npmVersion": "10.8.2",
+    "description": "https://simcheolun.github.io/vue3-typescript/",
+    "directories": {},
+    "_nodeVersion": "20.18.0",
+    "_hasShrinkwrap": false,
+    "devDependencies": {
+        "vue": "^3.0.0",
+        "sass": "^1.89.1",
+        "vite": "^5.0.0",
+        "vue-tsc": "^1.4.2",
+        "typescript": "^4.9.5",
+        "@types/node": "^22.15.24",
+        "@vitejs/plugin-vue": "^5.0.0"
+    },
+    "peerDependencies": {
+        "vue": "^3.0.0"
+    },
+    "_npmOperationalInternal": {
+        "tmp": "tmp/vue3-uiex-light-ts_0.0.1-alpha.3_1749969031740_0.3643378883152526",
+        "host": "s3://npm-registry-packages-npm-production"
+    }
+}
